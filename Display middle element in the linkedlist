@@ -1,0 +1,73 @@
+class ListNode 
+{
+    int data;
+    ListNode next;
+
+    // constructor
+    ListNode(int data)
+     {
+        this.data = data;
+        this.next = null;
+    }
+}
+
+class LinkedList
+ {
+    ListNode head;
+    public void insert(int a)
+    {
+        ListNode newnode= new ListNode(a);
+
+        if(head==null)
+        {
+            head=newnode;
+            return;
+        }
+       ListNode temp;
+       temp=head;
+       while(temp.next!=null)
+       {
+        temp=temp.next;
+       }
+         temp.next=newnode;
+    }
+
+
+    public void display()
+    {
+        ListNode t ;
+        t=head;
+        while (t != null) {
+            System.out.print(t.data + " -> ");
+            t = t.next;
+        }
+        System.out.println("null");
+    }
+    public void displaymiddle()
+    {
+        ListNode t,slow,fast ;
+        t=head;
+        slow=head;
+        fast=head;
+        while(fast!=null && fast.next!=null)
+        {
+            slow=slow.next;
+            fast=fast.next.next;
+                    }
+                    System.out.print(slow.data + " -> ");
+
+    }
+ }
+ public class Middleelement
+ {
+    public static void main(String args[])
+    {
+        LinkedList l=new LinkedList();
+        l.insert(10);
+        l.insert(20);
+        l.insert(30);
+        l.insert(40);
+        l.display();
+        l.displaymiddle();
+    }
+ }
