@@ -1,0 +1,42 @@
+class Solution {
+    public int[] sortedSquares(int[] nums) 
+    {
+        int len=nums.length;
+
+for(int i=0;i<len;i++)
+nums[i]=nums[i]*nums[i];
+
+ 
+
+//two pointers sorting the values
+int head=0;
+int tail=len-1;
+int res[]=new int[nums.length];
+
+for(int i=0;i<len;i++)
+{
+System.out.print(nums[i]+ "\t");
+}
+for(int i=len-1;i>=0;i--)
+{
+if(nums[head]>nums[tail])
+{
+res[i]=nums[head];
+head=head+1;
+}
+else
+{
+res[i]=nums[tail];
+tail--;
+}
+//System.out.println("res[i]=" + i+"\t"+  res[i]);
+}
+for(int i=0;i<len;i++)
+{
+System.out.print(res[i]+ "\t");
+}
+return res;
+}
+
+
+}
