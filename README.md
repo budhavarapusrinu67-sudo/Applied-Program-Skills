@@ -65,6 +65,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0070-climbing-stairs/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -78,4 +79,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
