@@ -67,6 +67,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0070-climbing-stairs/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
@@ -84,6 +85,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -91,4 +93,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0070-climbing-stairs/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
