@@ -7,6 +7,7 @@
 | [0169-majority-element](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0198-house-robber/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0746-min-cost-climbing-stairs](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0198-house-robber/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/budhavarapusrinu67-sudo/Applied-Program-Skills/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
